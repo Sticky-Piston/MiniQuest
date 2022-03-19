@@ -1,0 +1,8 @@
+name: MiniQuest
+version: '${version}'
+main: nl.privateers.miniquest.MiniQuest
+api-version: 1.18
+depend:
+  - WorldGuard
+  - WorldEdit
+  - MythicMobs
